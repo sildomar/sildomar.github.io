@@ -22,8 +22,7 @@ Hierarchical representation of remote sensed multimodal imagery
 
 Vision-based sensing for robust localization and mapping for autonomous vehicles
 ======
-<img style="float:left; margin: 0 0.5em .5em 0em;" src='/images/cproject03.jpg'>
-Despite impressive advances in commercial drones and autonomous driving technology, many technical challenges to fully autonomous operation (SAE level 5) remain, especially in complex environmental conditions. Difficulties arise due to severe variations in illumination (e.g., day, night, dusk) and weather (e.g., rain, fog, snow) conditions. Our research focuses on developing robust methods for vision-based simultaneous localization and mapping (SLAM) using monocular and stereo cameras (visual odometry). We are also studying the potential of utilizing wavelengths beyond the visible spectrum, such as near and short-wave infrared to improve sensing reliability for all weather operation.
+| <img src='/images/cproject03.jpg'> | Despite impressive advances in commercial drones and autonomous driving technology, many technical challenges to fully autonomous operation (SAE level 5) remain, especially in complex environmental conditions. Difficulties arise due to severe variations in illumination (e.g., day, night, dusk) and weather (e.g., rain, fog, snow) conditions. Our research focuses on developing robust methods for vision-based simultaneous localization and mapping (SLAM) using monocular and stereo cameras (visual odometry). We are also studying the potential of utilizing wavelengths beyond the visible spectrum, such as near and short-wave infrared to improve sensing reliability for all weather operation. |
 
 Probabilistic graphical models for hyperspectral analysis
 ======
