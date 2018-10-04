@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Sildomar T. Monteiro"
+title                    : "Sildomar T. Monteiro, PhD"
 title_separator          : "-"
-name                     : &name "Sildomar Monteiro, PhD"
+name                     : &name "Sildomar Monteiro"
 description              : &description "AI Technologist at Boeing Research"
 url                      : https://sildomar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -79,8 +79,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sildomar Monteiro, PhD"
-  avatar           : "sildomar_profile.png"
+  name             : "Sildomar Monteiro"
+  avatar           : "portrait2018.jpg"
   bio              : "AI Technologist at Boeing Research"
   location         : "Huntsville, AL"
   employer         : "Boeing"

@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "About Dr. Sildomar Monteiro"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-## About
 
 Dr. Sildomar Monteiro is an advanced technologist with Boeing Research's Artificial Intelligence team. He is focused on researching and applying machine learning, robotics and computer vision algorithms to technical challenges at Boeing. Prior to joining Boeing, he was an assistant professor of robotics at the Rochester Institute of Technology, where he conducted research on machine learning for image understanding and multisensor fusion from remote sensing and unmanned ground vehicles. Prior to RIT, he was a research fellow in the Australian Centre for Field Robotics, University of Sydney, where he conducted research on machine learning for robot perception and hyperspectral analysis for fully autonomous mines.
 
