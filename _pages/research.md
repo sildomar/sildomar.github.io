@@ -19,11 +19,13 @@ redirect_from:
 Hierarchical representation of remote sensed multimodal imagery
 ======
 <img src='/images/cproject02.png'>
+![](/images/cproject02.png)
 This project aims to leverage the availability of information at various scales to infer the semantic structure of an image, to explore the use of topological features to improve classification/detection results, and to utilize probabilistic modeling of image content to discover meaningful objects in a given scene by multi-sensor data fusion. Funded by NGA, 2013-2018.
 
 Vision-based sensing for robust localization and mapping for autonomous vehicles
 ======
 <img src='/images/cproject03.jpg'>
+![](/images/cproject03.jpg)
 Despite impressive advances in commercial drones and autonomous driving technology, many technical challenges to fully autonomous operation (SAE level 5) remain, especially in complex environmental conditions. Difficulties arise due to severe variations in illumination (e.g., day, night, dusk) and weather (e.g., rain, fog, snow) conditions. Our research focuses on developing robust methods for vision-based simultaneous localization and mapping (SLAM) using monocular and stereo cameras (visual odometry). We are also studying the potential of utilizing wavelengths beyond the visible spectrum, such as near and short-wave infrared to improve sensing reliability for all weather operation.
 
 Probabilistic graphical models for hyperspectral analysis
