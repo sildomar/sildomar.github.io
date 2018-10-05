@@ -12,7 +12,7 @@ redirect_from:
 
 ## Current Projects
 
-[Boeing's Plan For Autonomous Flight](https://goo.gl/nLNSmZ) [Aviation Week, 2017]
+[Boeing's Plan For Autonomous Flight](https://goo.gl/nLNSmZ){:target="_blank"} [Aviation Week, 2017]
 
 ## Past Projects
 
