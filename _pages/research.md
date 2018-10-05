@@ -12,7 +12,7 @@ redirect_from:
 
 ## Current Projects
 
-[Boeing's Plan For Autonomous Flight](https://goo.gl/nLNSmZ) [Aviation Week, 2017]
+[Boeing's Plan For Autonomous Flight](https://goo.gl/nLNSmZ){:target="_blank"} [Aviation Week, 2017]
 
 ## Past Projects
 
@@ -41,12 +41,18 @@ A variety of mechanical sensors have been installed on an autonomous drill rig t
 <img style="float:left; margin: 0 0.5em .5em 0em;" src='/images/pproject05.jpg'>
 An  artificial neural network method was developed to classify grass species from  hyperspectral image data. The hyperspectral dataset was processed using  normalization and second derivative in order to reduce the effect of variations  in the intensity level of reflectance and to improve the classification  accuracy and generalization performance of the ANN-based model. Funded by JSPS, 2007-2008.
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 9acd40ba5b25bf8400a115b6b2b6c9d3abcfafba
 ### Estimating chemical contents in soybean crops using hyperspectral imagery
 <img style="float:left; margin: 0 0.5em .5em 0em;" src='/images/pproject04.jpg'>
 This study investigated the prediction of chemical contents in green vegetable soybean (edamame) crops. A neural network-based model was implemented to predict the chemical contents of localized crop fields from   hyperspectral data. A novel feature extraction method based on particle swarm optimization was proposed for hyperspectral imagery analysis. Funded by Monbukagakusho, 2005-2006.
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 9acd40ba5b25bf8400a115b6b2b6c9d3abcfafba
 ### See-through-blood  hyperspectral/multispectral visualization
 <img style="float:left; margin: 0 0.5em .5em 0em;" src='/images/pproject03.jpg'>
 An image/signal processing algorithm to be used as aiding   tool during  surgeries was proposed. The images are obtained using a hyperspectral   sensor, which provides data from a large number of measured wavelength bands. A   neural network approach was implemented to process hyperspectral data from near infrared wavelengths in order to produce a clearer image of blood covered areas. Funded by Monbukagakusho, 2003-2005.
