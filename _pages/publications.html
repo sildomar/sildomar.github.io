@@ -37,9 +37,9 @@ test6
     </pre>
 
     <p>
-            test9
+            test10
             </p>
-    
-```{r, results='asis'}
-cat(readLines('http://bibbase.org/show?bib=https://raw.githubusercontent.com/sildomar/sildomar.github.io/master/files/mypapers.bib'))
+
+```{r, echo=FALSE}
+htmltools::tags$iframe(title = "My embedded document", src = "http://bibbase.org/show?bib=https://raw.githubusercontent.com/sildomar/sildomar.github.io/master/files/mypapers.bib")
 ```
