@@ -19,12 +19,17 @@
     text-decoration: none;
 
     &:link {
-      color: #cc0000;
+      color:  #0000EE;
     }
-    
+
     &:hover {
-      color: #ff3300;
-      }
+      color: #00c;
+      text-decoration: underline;
+    }
+
+    &:visited { 
+      color: #551A8B; 
+    }
   }
 }
 
