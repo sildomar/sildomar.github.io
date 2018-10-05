@@ -19,8 +19,12 @@
     text-decoration: none;
 
     &:link {
-      color: Blue;
+      color: #cc0000;
     }
+    
+    &:hover {
+      color: #ff3300;
+      }
   }
 }
 
