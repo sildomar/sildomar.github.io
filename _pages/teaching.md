@@ -18,7 +18,6 @@ redirect_from:
 * Professional Engineering and IT, U Sydney, Spring 2009–2012
 
 ---
-
 ## Students Supervised
 
 ### PhD Students

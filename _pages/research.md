@@ -10,9 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-## Current Projects
-
-[Boeing's Plan For Autonomous Flight](https://goo.gl/nLNSmZ){:target="_blank"} [Aviation Week, 2017]
+[Boeing's Plan For Autonomous Flight Research](https://outline.com/uwKPhY){:target="_blank"} [TWP and Aviation Week, 2017]
 
 ## Past Projects
 
