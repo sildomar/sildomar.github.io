@@ -10,15 +10,11 @@ You can find his list of publications on <u><a href="https://scholar.google.com/
 </p>
 
 <p>
-    test12
+    test13
     </p>
 
+<iframe src="http://bibbase.org/show?bib=https://raw.githubusercontent.com/sildomar/sildomar.github.io/master/files/mypapers.bib"></iframe>
    
 
-         <script src="http://code.jquery.com/jquery-1.4.2.min.js">
-         </script>
-         
-        <script src="http://bibbase.org/show?bib=https://raw.githubusercontent.com/sildomar/sildomar.github.io/master/files/mypapers.bib&jsonp=1">
-        </script> 
 
 
