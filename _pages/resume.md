@@ -14,14 +14,12 @@ redirect_from:
 ### Tokyo Institute of Technology, Tokyo, Japan
 * *PhD in Engineering*, 2007  
 Thesis: Computational intelligence for optimization and analysis of high dimensional spectral imagery  
-Advisor: Dr. Yukio Kosugi  
-*MOMBUSHO full scholarship*
+*MOMBUSHO* full scholarship
 
 ### Technological Institute of Aeronautics, Sao Jose dos Campos, Brazil
-* *MSc in Computer Science*, 2002  
+* *MS in Computer Science*, 2002  
 Thesis: Study of performance of learning algorithms under conditions of sensorial ambiguity  
-Advisor: Dr. Carlos Ribeiro  
-*FAPESP full scholarship*
+*FAPESP* full scholarship
 
 ### Federal University of Amazonas, Manaus, Brazil
 * *BS in Electrical Engineering*, 1999
@@ -38,7 +36,7 @@ Advisor: Dr. Carlos Ribeiro
 * *Research Fellow*, Australian Centre for Field Robotics, 2008 – 2013
 
 ### Toshiba, Corporate Research & Development Center, Tokyo, Japan
-* *Research Intern, Human Centric Laboratory*, 2004 – 2005
+* *Research Assistant Intern*, Human Centric Laboratory, 2004 – 2005
 
 ### Tokyo Institute of Technology, Tokyo, Japan
 * *JSPS Postdoctoral Researcher*, 2007 – 2008
