@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Resume"
 permalink: /resume/
 author_profile: true
@@ -21,7 +20,7 @@ Advisor: Dr. Yukio Kosugi
 ### Technological Institute of Aeronautics, Sao Jose dos Campos, Brazil
 * *MSc in Computer Science*, 2002  
 Thesis: Study of performance of learning algorithms under conditions of sensorial ambiguity  
-Advisor: Dr. Carlos Ribeiro
+Advisor: Dr. Carlos Ribeiro  
 *FAPESP full scholarship*
 
 ### Federal University of Amazonas, Manaus, Brazil
