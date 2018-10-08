@@ -1,5 +1,6 @@
 ---
 title: "Teaching"
+excerpt: "Dr. Sildomar Monteiro's teaching experience"
 permalink: /teaching/
 author_profile: true
 redirect_from:
