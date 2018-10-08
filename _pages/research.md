@@ -14,7 +14,6 @@ redirect_from:
 
 ## Past Projects
 
----
 ### Hierarchical representation of remote sensed multimodal imagery
 <img style="float:left; margin: 0 0.5em .5em 0em;" src='/images/cproject02.png'>
 This project aims to leverage the availability of information at various scales to infer the semantic structure of an image, to explore the use of topological features to improve classification/detection results, and to utilize probabilistic modeling of image content to discover meaningful objects in a given scene by multi-sensor data fusion. Funded by NGA, 2013-2018.
