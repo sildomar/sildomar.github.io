@@ -1,6 +1,6 @@
 ---
 title: "Resume"
-excerpt: "Dr. Sildomar Monteiro's education and employment"
+excerpt: "Education and employment history"
 permalink: /resume/
 author_profile: true
 redirect_from:

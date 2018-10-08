@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Publications"
-excerpt: "Dr. Sildomar Monteiro's list of publications"
+excerpt: "List of publications"
 permalink: /publications/
 author_profile: true
 redirect_from:

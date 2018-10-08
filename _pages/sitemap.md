@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Sitemap"
+excerpt: "List of all pages"
 permalink: /sitemap/
 author_profile: true
 ---

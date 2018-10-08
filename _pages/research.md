@@ -1,6 +1,6 @@
 ---
 title: "Research"
-excerpt: "Dr. Sildomar Monteiro's research projects"
+excerpt: "Research projects"
 permalink: /research/
 author_profile: true
 redirect_from:
