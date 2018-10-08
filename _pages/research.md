@@ -23,7 +23,7 @@ This project aims to leverage the availability of information at various scales 
 ### Vision-based sensing for robust localization and mapping for autonomous vehicles
 
 <img style="float:left; margin: 0 0.5em .5em 0em;" src='/images/cproject03.jpg'>
-Despite impressive advances in commercial drones and autonomous driving technology, many technical challenges to fully autonomous operation remain. Difficulties arise due to severe environmental conditions, such as, variations in illumination (e.g., day, night, dusk) and weather (e.g., rain, fog, snow). Our research focuses on developing robust methods for vision-based simultaneous localization and mapping (SLAM) using monocular and stereo cameras (visual odometry). 2016-2017.
+Despite impressive advances in commercial drones and autonomous driving technology, many technical challenges to fully autonomous operation (SAE level 5) remain. Difficulties arise due to severe environmental conditions, such as, variations in illumination (e.g., day, night, dusk) and weather (e.g., rain, fog, snow). Our research focuses on developing robust methods for vision-based simultaneous localization and mapping (SLAM) using monocular and stereo cameras (visual odometry). 2016-2017.
 
 ---
 ### Probabilistic graphical models for hyperspectral analysis
