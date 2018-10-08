@@ -14,12 +14,12 @@ redirect_from:
 
 ### Tokyo Institute of Technology, Tokyo, Japan
 * *PhD in Engineering*, 2007  
-Thesis: Computational intelligence for optimization and analysis of high dimensional spectral imagery  
+Thesis: Computational intelligence for optimization and analysis of high dimensional spectral imagery.  
 *MOMBUSHO* full scholarship
 
 ### Technological Institute of Aeronautics, Sao Jose dos Campos, Brazil
 * *MS in Computer Science*, 2002  
-Thesis: Study of performance of learning algorithms under conditions of sensorial ambiguity  
+Thesis: Study of performance of learning algorithms under conditions of sensorial ambiguity.  
 *FAPESP* full scholarship
 
 ### Federal University of Amazonas, Manaus, Brazil
