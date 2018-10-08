@@ -17,3 +17,5 @@ Dr. Monteiro earned a Ph.D. in engineering from the [Tokyo Institute of Technolo
 * New paper on IJRS: Gewali and Monteiro, "[A tutorial on modelling and inference in undirected graphical models for hyperspectral image analysis](https://www.tandfonline.com/doi/abs/10.1080/01431161.2018.1465614){:target="_blank"}", 2018
 
 * New paper on arXiv: Gewali, Monteiro and Saber, "Machine learning based hyperspectral image analysis: a survey", 2018
+
+* Invited talk on "Autonomous Cars and Ethics", Intelligence of Things workshop, [Samsung Ocean Brazil](http://oceanbrasil.com/){:target="_blank"}, 2018
