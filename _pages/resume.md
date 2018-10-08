@@ -27,8 +27,8 @@ Thesis: Study of performance of learning algorithms under conditions of sensoria
 
 ## EMPLOYMENT
 
-### The BOEING Company, Boeing Research & Technology, Huntsville, AL
-* *Advanced Technologist*, AI Technologies Team, 2018 – present
+### The BOEING Company, Huntsville, AL
+* *Advanced Technologist*, Boeing Research & Technology, 2018 – present
 
 ### Rochester Institute of Technology (RIT), Rochester, NY
 * *Assistant Professor*, Department of Electrical Engineering, 2013 – 2017
@@ -36,8 +36,8 @@ Thesis: Study of performance of learning algorithms under conditions of sensoria
 ### University of SYDNEY, Sydney, Australia
 * *Research Fellow*, Australian Centre for Field Robotics, 2008 – 2013
 
-### TOSHIBA, Corporate Research & Development Center, Tokyo, Japan
-* *Research Assistant Intern*, Human Centric Laboratory, 2004 – 2005
+### TOSHIBA Corporation, Kanagawa, Japan
+* *Research Assistant Intern*, Corporate Research & Development Center, 2004 – 2005
 
 ### TOKYO Institute of Technology, Tokyo, Japan
 * *JSPS Postdoctoral Researcher*, 2007 – 2008
