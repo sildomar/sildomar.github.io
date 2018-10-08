@@ -10,8 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-EDUCATION
-======
+## EDUCATION
 
 ### Tokyo Institute of Technology, Tokyo, Japan
 **PhD in Engineering**, 2007
@@ -26,8 +25,8 @@ Advisor: Dr. Carlos Ribeiro
 ### Federal University of Amazonas, Manaus, Brazil
 **BS in Electrical Engineering**, 1999
 
-EMPLOYMENT
-======
+## EMPLOYMENT
+
 ### Boeing Research &Technology, Huntsville, AL
 **Advanced Technologist, AI Technologies Team**, 2018 – present
 
