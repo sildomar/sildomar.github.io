@@ -25,7 +25,7 @@ Thesis: Study of performance of learning algorithms under conditions of sensoria
 ### Federal University of Amazonas, Manaus, Brazil
 * *BS in Electrical Engineering*, 1999
 
-## EMPLOYMENT
+## EXPERIENCE
 
 ### The BOEING Company, Huntsville, AL
 * *Advanced Technologist*, Boeing Research & Technology, 2018 – present
@@ -42,3 +42,11 @@ Thesis: Study of performance of learning algorithms under conditions of sensoria
 ### TOKYO Institute of Technology, Tokyo, Japan
 * *JSPS Postdoctoral Researcher*, 2007 – 2008
 * *Research Assistant*, Mechano-Micro Engineering, 2003 – 2007
+
+## ACTIVITIES
+
+* *Guest editor*, Journal of Field Robotics special issue on “Alternative sensing techniques for robot perception,” 2015.
+* *Co-organizer*, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) workshop on robot perception, 2015
+* *Co-organizer*, Robotics Science and Systems (RSS) conference workshop on robot perception, 2012.
+* *Program Co-Chair*, Australasian Conference on Robotics and Automation (ACRA), 2009.
+* *Vice-chair*, Western New York Chapter of the IEEE Geoscience and Remote Sensing Society, 2016–2017. 
