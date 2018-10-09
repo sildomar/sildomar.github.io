@@ -12,9 +12,9 @@ redirect_from:
 
 ## Courses taught
 
-* Artificial Intelligence - EE647, RIT, Fall 2013–2017
-* C++ Advanced Programming - EE346, RIT, Spring 2014–2017
-* Classical Control Systems - EE414, RIT, Fall 2015–2017
+* Artificial Intelligence, RIT, Fall 2013–2017
+* C++ Advanced Programming, RIT, Spring 2014–2017
+* Classical Control Systems, RIT, Fall 2015–2017
 * Computer Vision and Image Processing, U Sydney, Fall 2011–2012 
 * Professional Engineering and IT, U Sydney, Spring 2009–2012
 
