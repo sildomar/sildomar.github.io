@@ -36,12 +36,11 @@ Thesis: Study of performance of learning algorithms under conditions of sensoria
 ### University of SYDNEY, Sydney, Australia
 * *Research Fellow*, Australian Centre for Field Robotics, 2008 – 2013
 
-### TOSHIBA Corporation, Kanagawa, Japan
-* *Research Assistant Intern*, Corporate Research & Development Center, 2004 – 2005
-
 ### TOKYO Institute of Technology, Tokyo, Japan
 * *JSPS Postdoctoral Researcher*, 2007 – 2008
-* *Research Assistant*, Mechano-Micro Engineering, 2003 – 2007
+
+### TOSHIBA Corporation, Kanagawa, Japan
+* *Research Assistant Intern*, Corporate Research & Development Center, 2004 – 2005
 
 ## ACTIVITIES
 
