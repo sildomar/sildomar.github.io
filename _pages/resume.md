@@ -22,9 +22,6 @@ Thesis: Computational intelligence for optimization and analysis of high dimensi
 Thesis: Study of performance of learning algorithms under conditions of sensorial ambiguity.  
 *FAPESP* full scholarship
 
-### Federal University of Amazonas, Manaus, Brazil
-* *BS in Electrical Engineering*, 1999
-
 ## EXPERIENCE
 
 ### The BOEING Company, Huntsville, AL
