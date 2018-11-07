@@ -25,7 +25,7 @@ Thesis: Study of performance of learning algorithms under conditions of sensoria
 ## EXPERIENCE
 
 ### The BOEING Company, Huntsville, AL
-* *Advanced Technologist*, Boeing Research & Technology, 2018 – present
+* *Senior Advanced Technologist*, Boeing Research & Technology, 2018 – present
 
 ### Rochester Institute of Technology (RIT), Rochester, NY
 * *Assistant Professor*, Department of Electrical Engineering, 2013 – 2017
