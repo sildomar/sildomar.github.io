@@ -10,6 +10,23 @@ redirect_from:
 
 {% include base_path %}
 
+## EXPERIENCE
+
+### The BOEING Company
+* *Senior Research Scientist*, Boeing Research & Technology, 2018 – present
+
+### ROCHESTER Institute of Technology
+* *Assistant Professor*,  Robotics and Electrical Engineering, 2013 – 2017
+
+### University of SYDNEY, Australia
+* *Research Scientist*, Australian Centre for Field Robotics, 2008 – 2013
+
+### TOKYO Institute of Technology, Japan
+* *JSPS Postdoctoral Fellow*, 2007 – 2008
+
+### TOSHIBA Corporation, Japan
+* *Graduate Intern*, Corporate Research & Development Center, 2004 – 2005
+
 ## EDUCATION
 
 ### Tokyo Institute of Technology, Tokyo, Japan
@@ -21,23 +38,6 @@ Thesis: Computational intelligence for optimization and analysis of high dimensi
 * *MS in Computer Science*, 2002  
 Thesis: Study of performance of learning algorithms under conditions of sensorial ambiguity.  
 *FAPESP* full scholarship
-
-## EXPERIENCE
-
-### The BOEING Company, Huntsville, AL
-* *Senior Advanced Technologist*, Boeing Research & Technology, 2018 – present
-
-### Rochester Institute of Technology (RIT), Rochester, NY
-* *Assistant Professor*, Department of Electrical Engineering, 2013 – 2017
-
-### University of SYDNEY, Sydney, Australia
-* *Research Fellow*, Australian Centre for Field Robotics, 2008 – 2013
-
-### TOKYO Institute of Technology, Tokyo, Japan
-* *JSPS Postdoctoral Researcher*, 2007 – 2008
-
-### TOSHIBA Corporation, Kanagawa, Japan
-* *Research Assistant Intern*, Corporate Research & Development Center, 2004 – 2005
 
 ## ACTIVITIES
 
