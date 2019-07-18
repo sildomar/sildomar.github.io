@@ -1,4 +1,44 @@
 %, Encoding: x-MacRoman
+@Article{rs11141648,
+AUTHOR = {Gewali, Utsav B. and Monteiro, Sildomar T. and Saber, Eli},
+TITLE = {Spectral Super-Resolution with Optimized Bands},
+JOURNAL = {Remote Sensing},
+VOLUME = {11},
+YEAR = {2019},
+NUMBER = {14},
+ARTICLE-NUMBER = {1648},
+URL = {https://www.mdpi.com/2072-4292/11/14/1648},
+ISSN = {2072-4292},
+ABSTRACT = {Hyperspectral (HS) sensors sample reflectance spectrum in very high resolution, which allows us to examine material properties in very fine details. However, their widespread adoption has been hindered because they are very expensive. Reflectance spectra of real materials are high dimensional but sparse signals. By utilizing prior information about the statistics of real HS spectra, many previous studies have reconstructed HS spectra from multispectral (MS) signals (which can be obtained from cheaper, lower spectral resolution sensors). However, most of these techniques assume that the MS bands are known apriori and do not optimize the MS bands to produce more accurate reconstructions. In this paper, we propose a new end-to-end fully convolutional residual neural network architecture that simultaneously learns both the MS bands and the transformation to reconstruct HS spectra from MS signals by analyzing large quantity of HS data. The learned band can be implemented in hardware to obtain an MS sensor that collects data that is best to reconstruct HS spectra using the learned transformation. Using a diverse set of real-world datasets, we show how the proposed approach of optimizing MS bands along with the transformation can drastically increase the reconstruction accuracy. Additionally, we also investigate the prospects of using reconstructed HS spectra for land cover classification.},
+DOI = {10.3390/rs11141648}
+}
+
+@Article{rs11131614,
+AUTHOR = {Gewali, Utsav B. and Monteiro, Sildomar T. and Saber, Eli},
+TITLE = {Gaussian Processes for Vegetation Parameter Estimation from Hyperspectral Data with Limited Ground Truth},
+JOURNAL = {Remote Sensing},
+VOLUME = {11},
+YEAR = {2019},
+NUMBER = {13},
+ARTICLE-NUMBER = {1614},
+URL = {https://www.mdpi.com/2072-4292/11/13/1614},
+ISSN = {2072-4292},
+ABSTRACT = {An important application of airborne- and satellite-based hyperspectral imaging is the mapping of the spatial distribution of vegetation biophysical and biochemical parameters in an environment. Statistical models, such as Gaussian processes, have been very successful for modeling vegetation parameters from captured spectra, however their performance is highly dependent on the amount of available ground truth. This is a problem because it is generally expensive to obtain ground truth information due to difficulties and costs associated with sample collection and analysis. In this paper, we present two Gaussian processes based approaches for improving the accuracy of vegetation parameter retrieval when ground truth is limited. The first is the adoption of covariance functions based on well-established metrics, such as, spectral angle and spectral correlation, which are known to be better measures of similarity for spectral data owing to their resilience to spectral variabilities. The second is the joint modeling of related vegetation parameters by multitask Gaussian processes so that the prediction accuracy of the vegetation parameter of interest can be improved with the aid of related vegetation parameters for which a larger set of ground truth is available. We experimentally demonstrate the efficacy of the proposed methods against existing approaches on three real-world hyperspectral datasets and one synthetic dataset.},
+DOI = {10.3390/rs11131614}
+}
+
+@article{
+author = { Yansong Liu,Sankaranarayanan Piramanayagam,Sildomar T. Monteiro,Eli Saber},
+title = {Semantic segmentation of multisensor remote sensing imagery with deep ConvNets and higher-order conditional random fields},
+volume = {13},
+journal = {Journal of Applied Remote Sensing},
+number = {1},
+pages = {1 - 23 - 23},
+abstract = {Aerial images acquired by multiple sensors provide comprehensive and diverse information of materials and objects within a surveyed area. The current use of pretrained deep convolutional neural networks (DCNNs) is usually constrained to three-band images (i.e., RGB) obtained from a single optical sensor. Additional spectral bands from a multiple sensor setup introduce challenges for the use of DCNN. We fuse the RGB feature information obtained from a deep learning framework with light detection and ranging (LiDAR) features to obtain semantic labeling. Specifically, we propose a decision-level multisensor fusion technique for semantic labeling of the very-high-resolution optical imagery and LiDAR data. Our approach first obtains initial probabilistic predictions from two different sources: one from a pretrained neural network fine-tuned on a three-band optical image, and another from a probabilistic classifier trained on LiDAR data. These two predictions are then combined as the unary potential using a higher-order conditional random field (CRF) framework, which resolves fusion ambiguities by exploiting the spatial–contextual information. We utilize graph cut to efficiently infer the final semantic labeling for our proposed higher-order CRF framework. Experiments performed on three benchmarking multisensor datasets demonstrate the performance advantages of our proposed method.},
+year = {2019},
+doi = {10.1117/1.JRS.13.016501},
+URL = {https://doi.org/10.1117/1.JRS.13.016501}
+}
 
 @article{gewali2018tutorial,
   title={A tutorial on modelling and inference in undirected graphical models for hyperspectral image analysis},
@@ -10,6 +50,19 @@
   publisher={Taylor \& Francis},
   Abstract                 = {Undirected graphical models have been successfully used to jointly model the spatial and the spectral dependencies in earth observing hyperspectral images. They produce less noisy, smooth, and spatially coherent land-cover maps and give top accuracies on many datasets. Moreover, they can easily be combined with other state-of-the-art approaches, such as deep learning. This has made them an essential tool for remote-sensing researchers and practitioners. However, graphical models have not been easily accessible to the larger remote-sensing community as they are not discussed in standard remote-sensing textbooks and not included in the popular remote-sensing software and toolboxes. In this tutorial, we provide a theoretical introduction to Markov random fields and conditional random fields-based spatial–spectral classification for land-cover mapping along with a detailed step-by-step practical guide on applying these methods using freely available software. Furthermore, the discussed methods are benchmarked on four public hyperspectral datasets for a fair comparison among themselves and easy comparison with the vast number of methods in literature which use the same datasets. The source code necessary to reproduce all the results in the paper is published on-line to make it easier for the readers to apply these techniques to different remote-sensing problems.},
   Url = {https://www.tandfonline.com/doi/full/10.1080/01431161.2018.1465614}
+}
+
+@INPROCEEDINGS{8517520, 
+author={G. {Yang} and U. B. {Gewali} and E. {Ientilucci} and M. {Gartley} and S. T. {Monteiro}}, 
+booktitle={IEEE International Geoscience and Remote Sensing Symposium}, 
+title={Dual-Channel Densenet for Hyperspectral Image Classification}, 
+year={2018}, 
+pages={2595-2598}, 
+abstract={Deep neural networks provide deep extracted features for image classification. As a high dimension data, hyperspectral image (HSI) feature extraction is unlike an RGB image whose feature representation could not be simply generated in the spatial domain. To take full advantage of HSI, a dual-channel convolutional neural network (CNN) is applied, 1D convolution for the spectral domain and 2D convolution for spatial domain. For pixel-wise classification of HSI, in our network model, one-dimensional customized DenseNet is for extracting the hierarchical spectral features and another customized DenseNet is applied to extract the hierarchical spatial-related feature. Furthermore, we experimentally tuned the several widen factors and dense-net growth rates to evaluate the impact of hyper-parameter. To compare our proposed method with HSI classification methods, we test other three DNNs based method in two real-world HSI dataset. The result demonstrated our approach outperformed the state-of-art method.}, 
+keywords={convolution;feature extraction;feedforward neural nets;geophysical image processing;hyperspectral imaging;image classification;image representation;remote sensing;DNN;dual-channel Densenet;hierarchical spectral feature extraction;HSI pixel-wise classification;HSI feature extraction;feature representation;dense-net growth rates;hierarchical spatial-related feature;one-dimensional customized DenseNet;network model;spectral domain;dual-channel convolutional neural network;spatial domain;high dimension data;deep neural networks;hyperspectral image classification;Feature extraction;Hyperspectral imaging;Neural networks;Computer architecture;Training;Two dimensional displays;Hyperspectral image classification;Dual-channel DenseNet;spatial-spectral}, 
+doi={10.1109/IGARSS.2018.8517520}, 
+ISSN={2153-7003}, 
+month={July}
 }
 
 @article{gewali2018machine,
