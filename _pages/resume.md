@@ -45,6 +45,7 @@ Thesis: Study of performance of learning algorithms under conditions of sensoria
 * *JSPS* Postdoctoral research fellowship, 2007-2009.
 * *MOMBUSHO* full PhD scholarship, 2003-2017.
 * *FAPESP* full MSc scholarship, 2000-2002.
+
 ## ACTIVITIES
 
 * *Guest editor*, Journal of Field Robotics special issue on “Alternative sensing techniques for robot perception,” 2015.
