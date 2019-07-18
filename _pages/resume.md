@@ -12,11 +12,11 @@ redirect_from:
 
 ## EXPERIENCE
 
-### The BOEING Company
+### The BOEING Company, Huntsville, AL
 * *Senior Research Scientist*, Boeing Research & Technology, 2018 – present
 
-### ROCHESTER Institute of Technology
-* *Assistant Professor*,  Robotics and Electrical Engineering, 2013 – 2017
+### ROCHESTER Institute of Technology, Rochester, NY
+* *Tenure-Track Assistant Professor*,  Robotics and Electrical Engineering, 2013 – 2017
 
 ### University of SYDNEY, Australia
 * *Research Scientist*, Australian Centre for Field Robotics, 2008 – 2013
