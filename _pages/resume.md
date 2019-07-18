@@ -32,13 +32,19 @@ redirect_from:
 ### Tokyo Institute of Technology, Tokyo, Japan
 * *PhD in Engineering*, 2007  
 Thesis: Computational intelligence for optimization and analysis of high dimensional spectral imagery.  
-*MOMBUSHO* full scholarship
 
 ### Technological Institute of Aeronautics, Sao Jose dos Campos, Brazil
 * *MS in Computer Science*, 2002  
 Thesis: Study of performance of learning algorithms under conditions of sensorial ambiguity.  
-*FAPESP* full scholarship
 
+
+## AWARDS
+* Senior Member of the IEEE, 2019. 
+* NVIDIA GPU Grant, 2017. 
+* Amazon AWS Machine Learning Grant, 2014.  
+* *JSPS* Postdoctoral research fellowship, 2007-2009.
+* *MOMBUSHO* full PhD scholarship, 2003-2017.
+* *FAPESP* full MSc scholarship, 2000-2002.
 ## ACTIVITIES
 
 * *Guest editor*, Journal of Field Robotics special issue on “Alternative sensing techniques for robot perception,” 2015.
