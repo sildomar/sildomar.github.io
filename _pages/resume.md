@@ -12,19 +12,19 @@ redirect_from:
 
 ## EXPERIENCE
 
-### The BOEING Company, Huntsville, AL
+### The Boeing Company, Huntsville, AL
 * *Senior Research Scientist*, Boeing Research & Technology, 2018 – present
 
-### ROCHESTER Institute of Technology, Rochester, NY
+### Rochester Institute of Technology, Rochester, NY
 * *Tenure-Track Assistant Professor*,  Robotics and Electrical Engineering, 2013 – 2017
 
-### University of SYDNEY, Australia
+### University of Sydney, Australia
 * *Research Scientist*, Australian Centre for Field Robotics, 2008 – 2013
 
-### TOKYO Institute of Technology, Japan
+### Tokyo Institute of Technology, Japan
 * *JSPS Postdoctoral Fellow*, 2007 – 2008
 
-### TOSHIBA Corporation, Japan
+### Toshiba Corporation, Japan
 * *Graduate Intern*, Corporate Research & Development Center, 2004 – 2005
 
 ## EDUCATION
