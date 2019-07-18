@@ -10,8 +10,13 @@ redirect_from:
 
 {% include base_path %}
 
+## Current Projects
 
+### Autonomous Systems
 [Boeing's Plan For Autonomous Flight Research](https://outline.com/uwKPhY){:target="_blank"} [TWP and Aviation Week, 2017]
+
+### Collaborators
+CMU Robotics Institute, NASA Ames, JPL, and the Australian Institute of Marine Sciences.
 
 ## Past Projects
 
