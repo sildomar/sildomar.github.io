@@ -43,7 +43,7 @@ Thesis: Study of performance of learning algorithms under conditions of sensoria
 * NVIDIA GPU Grant, 2017. 
 * Amazon AWS Machine Learning Grant, 2014.  
 * *JSPS* Postdoctoral research fellowship, 2007-2009.
-* *MOMBUSHO* full PhD scholarship, 2003-2017.
+* *MOMBUSHO* full PhD scholarship, 2003-2006.
 * *FAPESP* full MSc scholarship, 2000-2002.
 
 ## ACTIVITIES
