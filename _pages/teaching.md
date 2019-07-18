@@ -13,18 +13,17 @@ redirect_from:
 ## Courses taught
 
 * Artificial Intelligence, RIT, Fall 2013–2017
-* C++ Advanced Programming, RIT, Spring 2014–2017
+* C++ Object-Oriented Programming, RIT, Spring 2014–2017
 * Classical Control Systems, RIT, Fall 2015–2017
 * Computer Vision and Image Processing, U Sydney, Fall 2011–2012 
-* Professional Engineering and IT, U Sydney, Spring 2009–2012
 
 ## Students Supervised
 
 ### PhD Students
 * Utsav Gewali, RIT, Fall 2014–2018
 * Yansong Liu, RIT, Spring 2015–2018
+* Yilong Liang, RIT, Spring 2015–2018
 * Yang Hu, RIT, Fall 2014–2017
-* Yilong Liang, RIT, Spring 2015–2017
 * Tomasz Jasinski, U Sydney, 2011–2013
 * Seong H. Lee, U Sydney, 2011 – 2013
 
