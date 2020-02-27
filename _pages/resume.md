@@ -12,8 +12,8 @@ redirect_from:
 
 ## EXPERIENCE
 
-### The Boeing Company, Huntsville, AL
-* *Senior Research Engineer*, Aurora Flight Sciences, A Boeing Company, 2020 – present
+### Aurora Flight Sciences, A Boeing Company, Cambridge, MA
+* *Senior Research Engineer*, Autonomy Research Division, 2020 – present
 
 ### The Boeing Company, Huntsville, AL
 * *Senior Research Scientist*, Boeing Research & Technology, 2018 – 2020
