@@ -13,7 +13,10 @@ redirect_from:
 ## EXPERIENCE
 
 ### The Boeing Company, Huntsville, AL
-* *Senior Research Scientist*, Boeing Research & Technology, 2018 – present
+* *Senior Research Engineer*, Aurora Flight Sciences, A Boeing Company, 2020 – present
+
+### The Boeing Company, Huntsville, AL
+* *Senior Research Scientist*, Boeing Research & Technology, 2018 – 2020
 
 ### Rochester Institute of Technology, Rochester, NY
 * *Tenure-Track Assistant Professor*,  Robotics and Electrical Engineering, 2013 – 2017
