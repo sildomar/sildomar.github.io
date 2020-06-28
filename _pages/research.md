@@ -13,7 +13,7 @@ redirect_from:
 ## Current Projects
 
 ### [DARPA Gamebreaker](https://www.darpa.mil/news-events/2020-05-13){:target="_blank"}
-* Colloborating with MIT Prof. Jonathan How. Gamebreaker seeks to develop and apply AI to existing open-world video games to quantitatively assess game balance, identify underlying parameters that significantly contribute to balance, and explore new capabilities, tactics, and rule modifications that are most destabilizing to the game. 2020-2021.
+* Collaboration with MIT Prof. Jonathan How. Gamebreaker seeks to develop and apply AI to existing open-world video games to quantitatively assess game balance, identify underlying parameters that significantly contribute to balance, and explore new capabilities, tactics, and rule modifications that are most destabilizing to the game. 2020-2021.
 
 ## Past Projects
 
