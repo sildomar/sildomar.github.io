@@ -52,7 +52,7 @@ Thesis: Study of performance of learning algorithms under conditions of sensoria
 ## ACTIVITIES
 
 * *Guest editor*, Journal of Field Robotics special issue on “Alternative sensing techniques for robot perception,” 2015.
-* *Co-organizer*, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) workshop on robot perception, 2015
-* *Co-organizer*, Robotics Science and Systems (RSS) conference workshop on robot perception, 2012.
-* *Program Co-Chair*, Australasian Conference on Robotics and Automation (ACRA), 2009.
+* *Organizer*, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) workshop on robot perception, 2015
+* *Organizer*, Robotics Science and Systems (RSS) conference workshop on robot perception, 2012.
+* *Program Chair*, Australasian Conference on Robotics and Automation (ACRA), 2009.
 * *Vice-chair*, Western New York Chapter of the IEEE Geoscience and Remote Sensing Society, 2016–2017. 
