@@ -36,7 +36,7 @@ redirect_from:
 * *PhD in Engineering*, 2007  
 Thesis: Computational intelligence for optimization and analysis of high dimensional spectral imagery.  
 
-### Technological Institute of Aeronautics, Sao Jose dos Campos, Brazil
+### Aeronautics Institute of Technology, Sao Jose dos Campos, Brazil
 * *MS in Computer Science*, 2002  
 Thesis: Study of performance of learning algorithms under conditions of sensorial ambiguity.  
 
