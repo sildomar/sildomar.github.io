@@ -27,7 +27,7 @@ redirect_from:
 ### Tokyo Institute of Technology, Japan
 * *JSPS Postdoctoral Fellow*, 2007 – 2008
 
-### Toshiba Corporation, Japan
+### Toshiba Corporation, Yokohama, Japan
 * *Graduate Intern*, Corporate Research & Development Center, 2004 – 2005
 
 ## EDUCATION
@@ -42,12 +42,12 @@ Thesis: Study of performance of learning algorithms under conditions of sensoria
 
 
 ## AWARDS
-* Senior Member of the IEEE, 2019. 
-* NVIDIA GPU Grant, 2017. 
-* Amazon AWS Machine Learning Grant, 2014.  
-* *JSPS* Postdoctoral research fellowship, 2007-2009.
-* *MOMBUSHO* full PhD scholarship, 2003-2006.
-* *FAPESP* full MSc scholarship, 2000-2002.
+* Senior Member of the *IEEE*, 2019. 
+* *NVIDIA* Research Award, 2017. 
+* *Amazon AWS* Machine Learning Research Award, 2014.  
+* *JSPS* Research Fellowship Award, 2007-2009.
+* *MOMBUSHO* Full PhD Research Scholarship, 2003-2006.
+* *FAPESP* Full MSc Research Scholarship, 2000-2002.
 
 ## ACTIVITIES
 
