@@ -75,7 +75,8 @@ analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :   UA-127059358-1
-    config               :   G-GSMCMSDFZS 
+  google-universal:
+    tracking_id          :   G-GSMCMSDFZS 
 
 
 # Site Author
