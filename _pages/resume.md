@@ -13,7 +13,8 @@ redirect_from:
 ## EXPERIENCE
 
 ### Aurora Flight Sciences, A Boeing Company, Cambridge, MA
-* *Senior Research Scientist*, Autonomy Research Division, 2020 – present
+* *Group Manager*, AI & Machine Learning, 2021 – present
+* *Senior Research Scientist*, Autonomy Research Division, 2020 – 2021
 
 ### The Boeing Company, Huntsville, AL
 * *Senior Research Scientist*, Boeing Research & Technology, 2018 – 2020
@@ -42,6 +43,7 @@ Thesis: Study of performance of learning algorithms under conditions of sensoria
 
 
 ## AWARDS
+* *Boeing Research & Technology* (BR&T) Performance and Innovation (PI) award, 2019. 
 * Senior Member of the *IEEE*, 2019. 
 * *NVIDIA* Research Award, 2017. 
 * *Amazon AWS* Machine Learning Research Award, 2014.  
