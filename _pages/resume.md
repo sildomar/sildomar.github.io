@@ -25,12 +25,6 @@ redirect_from:
 ### University of Sydney, Australia
 * *Research Scientist*, Australian Centre for Field Robotics, 2008 – 2013
 
-### Tokyo Institute of Technology, Japan
-* *JSPS Postdoctoral Fellow*, 2007 – 2008
-
-### Toshiba Corporation, Yokohama, Japan
-* *Graduate Intern*, Corporate Research & Development Center, 2004 – 2005
-
 ## EDUCATION
 
 ### Tokyo Institute of Technology, Tokyo, Japan
