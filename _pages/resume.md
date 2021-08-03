@@ -37,7 +37,7 @@ Thesis: Study of performance of learning algorithms under conditions of sensoria
 
 
 ## AWARDS
-* *SPIE JRS* Theoretical Innovation award, 2020. 
+* *SPIE JARS* Theoretical Innovation award, 2020. 
 * *Boeing Research & Technology* (BR&T) Performance and Innovation (PI) award, 2019. 
 * Senior Member of the *IEEE*, 2019. 
 * *NVIDIA* Research Award, 2017. 
