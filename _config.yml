@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sildomar T. Monteiro, PhD"
 title_separator          : "-"
 name                     : &name "Sildomar Monteiro"
-description              : &description "Manager, AI/ML Research at Aurora Fligth Sciences, A Boeing Company"
+description              : &description "Manager, Aurora Fligth Sciences, A Boeing Company"
 url                      : https://sildomar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sildomar.github.io"
@@ -83,11 +83,11 @@ analytics:
 author:
   name             : "Sildomar Monteiro"
   avatar           : "portrait2018.jpg"
-  bio              : "Manager, AI/ML Research at Aurora Fligth Sciences, A Boeing Company"
+  bio              : "Manager, Aurora Fligth Sciences, A Boeing Company"
   location         : "Cambridge, MA"
   employer         : #"Aurora Flight Sciences"
   googlescholar    : "https://scholar.google.com/citations?user=qnuEvzEAAAAJ"
-  email            : "sildomar@ieee.org"
+  email            : "smonteiro@mit.edu"
   uri              :
   bitbucket        :
   codepen          :
