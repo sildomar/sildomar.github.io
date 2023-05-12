@@ -4,16 +4,16 @@ main:
 #    url: /
 
   - title: "Research"
-    url: https://www.aurora.aero/autonomy/
+    url: https://www.aurora.aero/autonomy/{:target="_blank"}
   
   - title: "Publications"
-    url: https://scholar.google.com/citations?user=qnuEvzEAAAAJ    
+    url: https://scholar.google.com/citations?user=qnuEvzEAAAAJ{:target="_blank"}   
 
   - title: "Teaching"
-    url: https://neet.mit.edu/threads/am    
+    url: https://neet.mit.edu/threads/am{:target="_blank"}    
     
   - title: "Resume"
-    url: https://www.linkedin.com/in/sildomar
+    url: https://www.linkedin.com/in/sildomar{:target="_blank"}
 
   # - title: "Portfolio"
   #   url: /portfolio/
